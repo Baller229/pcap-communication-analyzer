@@ -1,0 +1,63 @@
+{   
+    "sap":
+    {
+        "42": "STP",
+        "f0": "NETBIOS",
+        "e0": "IPX"   
+        
+    },
+    "pid":
+    {
+        "2004": "DTP",
+        "809b": "AppleTalk",
+        "010b": "PVSTP+",
+        "2000": "CDP"
+    },
+    "ether_type":
+    {
+        "0800": "IPv4",
+        "08dd": "IPv6",
+        "0806": "ARP",
+        "9000": "ECTP",
+        "88cc": "LLDP"
+    },
+    "protocol":
+    {
+        "01": "ICMP",
+        "02": "IGMP",
+        "67": "PIM",
+        "06": "TCP",
+        "11": "UDP"
+    },
+    "app_protocol":
+    {
+        "20": "FTP-DATA",
+        "21": "FTP-CONTROL",
+        "22": "SSH",
+        "23": "TELNET",
+        "25": "SMTP",
+        "53": "DNS",
+        "80": "HTTP",
+        "110": "POP3",
+        "119": "NNTP",
+        "143": "IMAP",
+        "179": "BGP",
+        "389": "LDAP",
+        "443": "HTTPS",
+        "37": "TIME",
+        "647": "DHCP",
+        "69": "TFTP",
+        "137": "NETBIOS-NS",
+        "138": "NETBIOS-DGM",
+        "139": "NETBIOS-SSN",
+        "1900": "SSDP",
+        "161": "SNMP",
+        "162": "SNMP-TRAP",
+        "514": "SYSLOG",
+        "520": "RIP",
+        "17500": "DB-LSP-DISC",
+        "5353": "MDNS",
+        "33434": "TRACEROUTE"
+    }
+
+}
